@@ -53,7 +53,7 @@ public class Test{
 				if(pub.charAt(i)==c) count++;
 			if(count>=3) {
 				color=c;
-				System.out.println("find:"+c);
+				//System.out.println("find:"+c);
 				break;
 			}
 		}
